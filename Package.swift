@@ -7,7 +7,7 @@ let package = Package(
 	name: "QRCode",
 	platforms: [
 		.macOS(.v10_11),
-		.iOS(.v12),
+		.iOS(.v13),
 		.tvOS(.v13),
 		.watchOS(.v6)
 	],
